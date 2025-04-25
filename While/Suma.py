@@ -12,4 +12,4 @@ while sum != 0:
     result = result + sum
     sum = int(input("Que otro numero quieres sumar: "))
 
-    print("El resultado final es:", result)
+print("El resultado final es:", result)
